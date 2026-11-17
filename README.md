@@ -28,7 +28,7 @@ Qwen3-0.6B with LoRA achieved the highest test F1-score. BiLSTM was the stronges
 
 ## Repository layout
 
-- `COMP9444_Notebook_SR.ipynb` — consolidated project code for data exploration, preprocessing, experiments, and result analysis. Its code cells are retained without saved outputs; run the cells to regenerate results.
+- `Notebook_SR.ipynb` — consolidated project code for data exploration, preprocessing, experiments, and result analysis. Its code cells are retained without saved outputs; run the cells to regenerate results.
 - `LR/` — Logistic Regression notebook and plot.
 - `Naive_bayes/` — Naive Bayes notebook and confusion matrix.
 - `Embedding_CNN/` — TextCNN notebooks, saved embedding results, and plots.
